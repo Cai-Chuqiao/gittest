@@ -1,6 +1,7 @@
 /* askname.c */
 #include <stdio.h>
 #include <string.h>
+/* ask  user first and last name */
 void askname(char *first, char *last)
 {
  printf("Enter your first name: ");
